@@ -1,0 +1,300 @@
+[
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "id": "b5b70472-c514-493a-996c-739c6aa6173e",
+            "deletedDateTime": "None",
+            "classification": "None",
+            "createdDateTime": "2020-06-08T13:08:06Z",
+            "creationOptions": [],
+            "description": "changed it just now1111",
+            "displayName": "Insync-adimanav-53",
+            "expirationDateTime": "None",
+            "groupTypes": [
+                "Unified"
+            ],
+            "isAssignableToRole": "None",
+            "mail": "Insyncadimanav53@druvainternal.onmicrosoft.com",
+            "mailEnabled": "True",
+            "mailNickname": "Insyncadimanav53",
+            "membershipRule": "None",
+            "membershipRuleProcessingState": "None",
+            "onPremisesDomainName": "None",
+            "onPremisesLastSyncDateTime": "None",
+            "onPremisesNetBiosName": "None",
+            "onPremisesSamAccountName": "None",
+            "onPremisesSecurityIdentifier": "None",
+            "onPremisesSyncEnabled": "None",
+            "preferredDataLocation": "None",
+            "preferredLanguage": "None",
+            "proxyAddresses": [
+                "SMTP:Insyncadimanav53@druvainternal.onmicrosoft.com",
+                "SPO:SPO_8acfdde1-cf51-413a-8cea-ad6077a64c95@SPO_649b37da-e479-45dc-a099-fda797d7fcee"
+            ],
+            "renewedDateTime": "2020-06-08T13:08:06Z",
+            "resourceBehaviorOptions": [],
+            "resourceProvisioningOptions": [
+                "Team"
+            ],
+            "securityEnabled": "False",
+            "securityIdentifier": "S-1-12-1-3048670322-1228588308-2624810137-1041737322",
+            "theme": "None",
+            "visibility": "Private",
+            "serviceProvisioningErrors": [],
+            "onPremisesProvisioningErrors": []
+        },
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "id": "dbfefd13-81a3-420f-bcd2-49fbb838c8d9",
+            "deletedDateTime": "None",
+            "classification": "None",
+            "createdDateTime": "2020-07-14T09:57:40Z",
+            "creationOptions": [],
+            "description": "member test",
+            "displayName": "allmembers",
+            "expirationDateTime": "None",
+            "groupTypes": [
+                "Unified"
+            ],
+            "isAssignableToRole": "None",
+            "mail": "allmembers@druvainternal.onmicrosoft.com",
+            "mailEnabled": "True",
+            "mailNickname": "allmembers",
+            "membershipRule": "None",
+            "membershipRuleProcessingState": "None",
+            "onPremisesDomainName": "None",
+            "onPremisesLastSyncDateTime": "None",
+            "onPremisesNetBiosName": "None",
+            "onPremisesSamAccountName": "None",
+            "onPremisesSecurityIdentifier": "None",
+            "onPremisesSyncEnabled": "None",
+            "preferredDataLocation": "None",
+            "preferredLanguage": "None",
+            "proxyAddresses": [
+                "SPO:SPO_7b3e2bf0-5648-4546-a686-21591aaa271d@SPO_649b37da-e479-45dc-a099-fda797d7fcee",
+                "SMTP:allmembers@druvainternal.onmicrosoft.com"
+            ],
+            "renewedDateTime": "2020-07-14T09:57:40Z",
+            "resourceBehaviorOptions": [],
+            "resourceProvisioningOptions": [
+                "Team"
+            ],
+            "securityEnabled": "False",
+            "securityIdentifier": "S-1-12-1-3690921235-1108312483-4215919292-3653777592",
+            "theme": "None",
+            "visibility": "Private",
+            "serviceProvisioningErrors": [],
+            "onPremisesProvisioningErrors": []
+        },
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "id": "397821ab-e4c0-4b4f-87be-c65519fa2813",
+            "deletedDateTime": "None",
+            "classification": "None",
+            "createdDateTime": "2020-12-03T10:02:44Z",
+            "creationOptions": [],
+            "description": "only_std_chnl_org_wide",
+            "displayName": "only_std_chnl_org_wide",
+            "expirationDateTime": "None",
+            "groupTypes": [
+                "Unified"
+            ],
+            "isAssignableToRole": "None",
+            "mail": "only_std_chnl_org_wide@druvainternal.onmicrosoft.com",
+            "mailEnabled": "True",
+            "mailNickname": "only_std_chnl_org_wide",
+            "membershipRule": "None",
+            "membershipRuleProcessingState": "None",
+            "onPremisesDomainName": "None",
+            "onPremisesLastSyncDateTime": "None",
+            "onPremisesNetBiosName": "None",
+            "onPremisesSamAccountName": "None",
+            "onPremisesSecurityIdentifier": "None",
+            "onPremisesSyncEnabled": "None",
+            "preferredDataLocation": "None",
+            "preferredLanguage": "None",
+            "proxyAddresses": [
+                "SPO:SPO_f8f0dcfc-e1f7-4440-9777-4519548e23e4@SPO_649b37da-e479-45dc-a099-fda797d7fcee",
+                "SMTP:only_std_chnl_org_wide@druvainternal.onmicrosoft.com"
+            ],
+            "renewedDateTime": "2020-12-03T10:02:44Z",
+            "resourceBehaviorOptions": [],
+            "resourceProvisioningOptions": [
+                "Team"
+            ],
+            "securityEnabled": "False",
+            "securityIdentifier": "S-1-12-1-964174251-1263527104-1439088263-321452569",
+            "theme": "None",
+            "visibility": "Public",
+            "serviceProvisioningErrors": [],
+            "onPremisesProvisioningErrors": []
+        },
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "id": "921216d4-3573-4650-b611-6d5dc72a7ac3",
+            "deletedDateTime": "None",
+            "classification": "None",
+            "createdDateTime": "2021-03-30T10:58:17Z",
+            "creationOptions": [
+                "Team",
+                "ExchangeProvisioningFlags:3552"
+            ],
+            "description": "vishal_teams_orgwideゑ🏏Check here for organization announcements and important info.",
+            "displayName": "vishal_Teams_Orgwide-$$&%ゑ🏏",
+            "expirationDateTime": "None",
+            "groupTypes": [
+                "Unified"
+            ],
+            "isAssignableToRole": "None",
+            "mail": "vishal_teams_orgwide@druvainternal.onmicrosoft.com",
+            "mailEnabled": "True",
+            "mailNickname": "vishal_teams_orgwide",
+            "membershipRule": "None",
+            "membershipRuleProcessingState": "None",
+            "onPremisesDomainName": "None",
+            "onPremisesLastSyncDateTime": "None",
+            "onPremisesNetBiosName": "None",
+            "onPremisesSamAccountName": "None",
+            "onPremisesSecurityIdentifier": "None",
+            "onPremisesSyncEnabled": "None",
+            "preferredDataLocation": "None",
+            "preferredLanguage": "None",
+            "proxyAddresses": [
+                "SPO:SPO_40b3f1a8-5935-4dc7-80de-b2921579ad7c@SPO_649b37da-e479-45dc-a099-fda797d7fcee",
+                "SMTP:vishal_teams_orgwide@druvainternal.onmicrosoft.com"
+            ],
+            "renewedDateTime": "2021-03-30T10:58:17Z",
+            "resourceBehaviorOptions": [
+                "HideGroupInOutlook",
+                "SubscribeMembersToCalendarEventsDisabled",
+                "WelcomeEmailDisabled"
+            ],
+            "resourceProvisioningOptions": [
+                "Team"
+            ],
+            "securityEnabled": "False",
+            "securityIdentifier": "S-1-12-1-2450659028-1179661683-1567429046-3279563463",
+            "theme": "None",
+            "visibility": "Public",
+            "serviceProvisioningErrors": [],
+            "onPremisesProvisioningErrors": []
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "id": "9c5ad5f4-6337-4800-b612-d1f8dda413fb",
+            "deletedDateTime": "None",
+            "description": "Assigns attribute keys and values to Azure AD objects.",
+            "displayName": "Attribute Assignment Administrator",
+            "roleTemplateId": "58a13ea3-c632-46ae-9ee0-9c0d43cd7f3d"
+        },
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "id": "ecbcedbe-5f7f-4611-81fd-eb511d09e880",
+            "deletedDateTime": "None",
+            "classification": "None",
+            "createdDateTime": "2022-06-21T10:11:39Z",
+            "creationOptions": [],
+            "description": "myallusersgroup",
+            "displayName": "myallusersgroup",
+            "expirationDateTime": "None",
+            "groupTypes": [
+                "Unified"
+            ],
+            "isAssignableToRole": "None",
+            "mail": "myallusersgroup@druvainternal.onmicrosoft.com",
+            "mailEnabled": "True",
+            "mailNickname": "myallusersgroup",
+            "membershipRule": "None",
+            "membershipRuleProcessingState": "None",
+            "onPremisesDomainName": "None",
+            "onPremisesLastSyncDateTime": "None",
+            "onPremisesNetBiosName": "None",
+            "onPremisesSamAccountName": "None",
+            "onPremisesSecurityIdentifier": "None",
+            "onPremisesSyncEnabled": "None",
+            "preferredDataLocation": "None",
+            "preferredLanguage": "None",
+            "proxyAddresses": [
+                "SPO:SPO_19f6e067-d2ac-4766-a522-af01c03de126@SPO_649b37da-e479-45dc-a099-fda797d7fcee",
+                "SMTP:myallusersgroup@druvainternal.onmicrosoft.com"
+            ],
+            "renewedDateTime": "2022-06-21T10:11:39Z",
+            "resourceBehaviorOptions": [],
+            "resourceProvisioningOptions": [],
+            "securityEnabled": "True",
+            "securityIdentifier": "S-1-12-1-3971804606-1175543679-1374420353-2162690333",
+            "theme": "None",
+            "visibility": "Private",
+            "serviceProvisioningErrors": [],
+            "onPremisesProvisioningErrors": []
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "id": "b14c6834-d9d4-437e-ac05-12f742822c6b",
+            "deletedDateTime": "None",
+            "description": "Can create and manage all aspects of attack simulation campaigns.",
+            "displayName": "Attack Simulation Administrator",
+            "roleTemplateId": "c430b396-e693-46cc-96f3-db01bf8bb62a"
+        },
+        {
+            "@odata.type": "#microsoft.graph.directoryRole",
+            "id": "a2e276c5-bc90-459b-a0f8-d30e4a8d3215",
+            "deletedDateTime": "None",
+            "description": "Can create attack payloads that an administrator can initiate later.",
+            "displayName": "Attack Payload Author",
+            "roleTemplateId": "9c6df0f2-1e7c-4dc3-b195-66dfbd24aa8f"
+        },
+        {
+            "@odata.type": "#microsoft.graph.group",
+            "id": "aee37a64-547a-4d59-892a-f2a84cffa5fe",
+            "deletedDateTime": "None",
+            "classification": "None",
+            "createdDateTime": "2023-01-31T10:00:09Z",
+            "creationOptions": [],
+            "description": "31012023",
+            "displayName": "31012023",
+            "expirationDateTime": "None",
+            "groupTypes": [
+                "Unified"
+            ],
+            "isAssignableToRole": "None",
+            "mail": "31012023@druvainternal.onmicrosoft.com",
+            "mailEnabled": "True",
+            "mailNickname": "31012023",
+            "membershipRule": "None",
+            "membershipRuleProcessingState": "None",
+            "onPremisesDomainName": "None",
+            "onPremisesLastSyncDateTime": "None",
+            "onPremisesNetBiosName": "None",
+            "onPremisesSamAccountName": "None",
+            "onPremisesSecurityIdentifier": "None",
+            "onPremisesSyncEnabled": "None",
+            "preferredDataLocation": "NAM",
+            "preferredLanguage": "None",
+            "proxyAddresses": [
+                "SPO:SPO_c677afd8-813e-4e7a-bc8a-dda76380745f@SPO_649b37da-e479-45dc-a099-fda797d7fcee",
+                "SMTP:31012023@druvainternal.onmicrosoft.com"
+            ],
+            "renewedDateTime": "2023-01-31T10:00:09Z",
+            "resourceBehaviorOptions": [],
+            "resourceProvisioningOptions": [
+                "Team"
+            ],
+            "securityEnabled": "False",
+            "securityIdentifier": "S-1-12-1-2934143588-1297699962-2834442889-4272291660",
+            "theme": "None",
+            "visibility": "Public",
+            "serviceProvisioningErrors": [],
+            "onPremisesProvisioningErrors": []
+        },
+        {
+            "@odata.type": "#microsoft.graph.administrativeUnit",
+            "id": "56e4c76c-20f9-4524-b9a4-e981c60509d4",
+            "deletedDateTime": "None",
+            "displayName": "Taslim",
+            "description": "None",
+            "membershipRule": "None",
+            "membershipType": "None",
+            "membershipRuleProcessingState": "None",
+            "visibility": "None"
+        }
+    ]

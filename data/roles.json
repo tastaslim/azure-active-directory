@@ -1,0 +1,26 @@
+[
+    {
+      "id": "oz6hWDLGrkae4JwNQ81_PcpSCUUJUZxGhu4YRoduojw-1",
+      "principalId": "450952ca-5109-469c-86ee-1846876ea23c",
+      "principalOrganizationId": "649b37da-e479-45dc-a099-fda797d7fcee",
+      "resourceScope": "/",
+      "directoryScopeId": "/",
+      "roleDefinitionId": "58a13ea3-c632-46ae-9ee0-9c0d43cd7f3d"
+    },
+    {
+      "id": "8vBtnHwew02xlWbfvSSqj8pSCUUJUZxGhu4YRoduojw-1",
+      "principalId": "450952ca-5109-469c-86ee-1846876ea23c",
+      "principalOrganizationId": "649b37da-e479-45dc-a099-fda797d7fcee",
+      "resourceScope": "/",
+      "directoryScopeId": "/",
+      "roleDefinitionId": "9c6df0f2-1e7c-4dc3-b195-66dfbd24aa8f"
+    },
+    {
+      "id": "lrMwxJPmzEaW89sBv4u2KspSCUUJUZxGhu4YRoduojw-1",
+      "principalId": "450952ca-5109-469c-86ee-1846876ea23c",
+      "principalOrganizationId": "649b37da-e479-45dc-a099-fda797d7fcee",
+      "resourceScope": "/",
+      "directoryScopeId": "/",
+      "roleDefinitionId": "c430b396-e693-46cc-96f3-db01bf8bb62a"
+    }
+]
