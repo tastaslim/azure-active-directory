@@ -1,0 +1,12 @@
+[MASTER]
+init-hook="from pylint.config import find_pylintrc; import os, sys; sys.path.append(os.path.dirname(find_pylintrc())+ "/src")"
+
+[VARIABLES]
+
+# List of additional names supposed to be defined in builtins. Remember that
+# you should avoid defining new builtins when possible.
+additional-builtins=ServerConfig,
+                    SyncLog,
+                    SERVICE_START_TIME,
+                    test_service_client,
+

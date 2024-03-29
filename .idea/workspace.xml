@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53dad828-a973-4939-a160-80fe2103d5e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Azure Active Directory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/application_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/device_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/group_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/role_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/service_principal_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/administrativeUnit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/device/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/license/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/role/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servicePrincipal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/oauth_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/graph_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/graph_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/administrative_unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/administrativeUnit/administrative_unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/app_registration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/device.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enterprise_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/servicePrincipal/enterprise_application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/group/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/roles_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/role/roles_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token_generator/graph_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/token_generator/graph_token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token_generator/token_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/token_generator/token_generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XuIg3EF3U0YiYsH9QdBp3dwk0T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/role" />
+      <recent name="$PROJECT_DIR$/src/administrativeUnit" />
+      <recent name="$PROJECT_DIR$/src/application" />
+      <recent name="$PROJECT_DIR$/src/servicePrincipal" />
+      <recent name="$PROJECT_DIR$/src/device" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Azure Active Directory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53dad828-a973-4939-a160-80fe2103d5e0" name="Changes" comment="" />
+      <created>1699472647301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699472647301</updated>
+    </task>
+    <servers />
+  </component>
+</project>
